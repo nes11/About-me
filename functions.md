@@ -1,5 +1,5 @@
 ## **FUNCTIONS**
----
+
 In JavaScript, functions are objects.
 
 ### **Function expression vs function declaration**
