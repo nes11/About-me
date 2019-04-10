@@ -12,13 +12,13 @@ I use this repo to keep track of the skills I learn and the concepts I explore.
 
 ### Upcoming:
 
-REST APIs 
-Docker
-Composition vs inheritance
-Shallow copy/deep copy
-Functions that return a function
-Prevent object mutation with Object.freeze( ) 
-Difference between map and forEach (+/-)
-Value/reference
-Webpack > production vs development 
+REST APIs  
+Docker  
+Composition vs inheritance  
+Shallow copy/deep copy  
+Functions that return a function  
+Prevent object mutation with Object.freeze()  
+Difference between map and forEach (+/-)  
+Value/reference  
+Webpack > production vs development  
 Object.entries( ), Object.values( ), Object.keys( )
