@@ -1,5 +1,5 @@
 ## **REST and SPREAD OPERATORS**
----
+
 `...` is a new functionality provided by Javascript's ECMA6. It can be used as  rest parameters or a spread operator.
 
 ### **Rest parameters**

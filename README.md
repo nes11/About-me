@@ -5,14 +5,14 @@ Learning by myself made me develop strategies to approach new skills: reading, e
 # Learning path
 I use this repo to keep track of the skills I learn and the concepts I explore. 
 
-Variables  
-Functions  
-Rest/spread operators
+[Variables](https://github.com/nes11/About-me/blob/master/variables.md)  
+[Functions](https://github.com/nes11/About-me/blob/master/functions.md)  
+[Rest/spread operators](https://github.com/nes11/About-me/blob/master/rest-spread-operators.md)  
+[Promises](https://github.com/nes11/About-me/blob/master/Promises.md)
 
 ### Upcoming:
 
-REST APIs
-Promises 
+REST APIs 
 Docker
 Composition vs inheritance
 Shallow copy/deep copy
