@@ -1,6 +1,6 @@
 # About me
 
-Read my [profile]()
+Read my [profile](https://github.com/nes11/About-me/blob/master/Agn%C3%A8sGaroux.profile.pdf)  
 Learning by myself made me develop strategies to approach new skills: reading, experimenting, then seeking help from more experienced developers has proved an effective method. 
 
 # Learning path
