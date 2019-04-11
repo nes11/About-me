@@ -13,6 +13,10 @@ I use this repo to keep track of the skills I learn and the concepts I explore.
 
 ### Upcoming:
 
+uuid  
+Testing with Mocha, Chai, Axios, Postman  
+Express.js  
+Mongo/noSQL databases  
 REST APIs  
 Docker  
 Composition vs inheritance  
