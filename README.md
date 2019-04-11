@@ -19,11 +19,14 @@ Express.js
 Mongo/noSQL databases  
 REST APIs  
 Docker  
+Difference between map and forEach (+/-)  
+Value/reference  
+
+### More topics:
+
 Composition vs inheritance  
 Shallow copy/deep copy  
 Functions that return a function  
-Prevent object mutation with Object.freeze()  
-Difference between map and forEach (+/-)  
-Value/reference  
+Prevent object mutation with Object.freeze()    
 Webpack > production vs development  
 Object.entries( ), Object.values( ), Object.keys( )
