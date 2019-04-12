@@ -9,12 +9,16 @@ Collects all the remaining arguments into an array. It allows us to represent an
 Without rest parameters:
 ```javascript
 const myFunc = (a, b) => console.log(a, b);
-myFunc(1, 2, 3, 4, 5) // will console.log 1, 2. Even though the function call accepts any number of arguments, the function declaration only accounts for two, so the function is run with the first two arguments only. 
+myFunc(1, 2, 3, 4, 5) /* will console.log 1, 2. Even though the function call accepts any number of  
+arguments, the function declaration only accounts for two, so the function is run with the first  
+two arguments only.*/
 ```
 With rest parameters:
 ```javascript
 const myFunc = (…args) => console.log(args);
-myFunc(1, 2, 3, 4, 5) // will console.log [1, 2, 3, 4, 5]. All the arguments passed to myFunc are gathered into an array. Since the rest parameters gives us an array, we can then use any array method on it. 
+myFunc(1, 2, 3, 4, 5) /* will console.log [1, 2, 3, 4, 5]. All the arguments passed to myFunc are  
+gathered into an array. Since the rest parameters gives us an array, we can then use any array  
+method on it.*/ 
 ```
 We can also define some arguments in the function declaration; the remaining arguments in the function call will be gathered in an array.
 
