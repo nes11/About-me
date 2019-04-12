@@ -36,7 +36,8 @@ const myFunc2 = (arg1, …array, arg2) => {
 consol	e.log(array)
 return arg1 + arg2;
 }
-myFunc2(2, 4, 5, 6, 7) // ERROR arg1 gets the value of the first argument and array gets all remaining ones, so there is no value left for arg2.
+myFunc2(2, 4, 5, 6, 7) /* ERROR arg1 gets the value of the first argument and array gets all remaining  
+ones, so there is no value left for arg2.*/
 ```  
 
 ### **Spread operator**
@@ -44,7 +45,8 @@ myFunc2(2, 4, 5, 6, 7) // ERROR arg1 gets the value of the first argument and ar
 Unpacks elements of an array/properties of an object into separate arguments. Say we have a function that takes a list of integers (such as `Math.max()`), and an array of integers that we want to use as arguments. 
 ```javascript
 const integersArray = [2, 56, 678, 224, 3]
-Math.max(…integersArray) // the spread operator ‘unpacks’ the array, allowing each element of the array to be passed as a separate argument. 
+Math.max(…integersArray) /* the spread operator ‘unpacks’ the array, allowing each element of the array  
+to be passed as a separate argument.*/ 
 ```
 The spread operator can be very useful in different scenarios:
 
