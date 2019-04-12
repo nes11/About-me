@@ -41,23 +41,34 @@ Here it is assumed that totalScore as been previously declared and assigned a va
 
 ### **JavaScript value types**
 
-Primitive values:
+#### Primitive values
 -	undefined
 -	null
 -	Boolean: true or false
 -	Number
--	String: a series of characters (letters, symbols and/or numbers) surrounded by double (“ “) or single (‘ ‘) quotes.  
-```“You win this game”, ‘hamburger’```
+-	String: a series of characters (letters, symbols and/or numbers) surrounded by double (“ “) or single (‘ ‘) quotes. 
+```javascript 
+“You win the game”, ‘hamburger’
+```  
+Backticks can also be used, especially with string interpolation: 
+```javascript 
+    `Hello ${userName}` 
+``` 
 
-Objects:
+#### Objects
 -	Array: collection of values surrounded by square braces [ ] and separated by commas.  
-```
-[‘Julie’, 27, false, “The Hitchhiker’s guide to the Galaxy”]
+```javascript
+[‘Julie’, 27, false, “The Hitchhiker’s guide to the Galaxy”]  
 ```
 -	Function: more on this later
 -	Object: collection of key:value pairs surrounded by curly braces and separated by commas.  
-```
-{name: ‘Julie’, age: 27, married: false, favouriteBook: “The Hitchhiker’s guide to the Galaxy”}
+```javascript
+{  
+  name: ‘Julie’,  
+  age: 27,  
+  married: false,  
+  favouriteBook: “The Hitchhiker’s guide to the Galaxy”
+}
 ```
 
 The most important difference is that 
