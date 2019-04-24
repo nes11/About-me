@@ -8,7 +8,7 @@ I use this repo to keep track of the skills I learn and the concepts I explore.
 
 |   |   |
 |---|---|
-|**TicTacToe ([front-end](https://github.com/nes11/tictactoe-frontend)/[back-end](https://github.com/nes11/tictactoe-backend))**: 3-part app with an Express API server, React and Mongo. TDD with Mocha and Chai, create-react-app, RESTful api, microservices. Soon to be deployed to a three-container cluster with Docker Compose. | MERN stack Axios Docker Node.js |
+|**TicTacToe ([front-end](https://github.com/nes11/tictactoe-frontend)/[back-end](https://github.com/nes11/tictactoe-backend))**: 3-part app with an Express API server, React and Mongo. TDD with Mocha and Chai, create-react-app, RESTful api, microservices. Deployed as a three-container cluster using Docker Compose.    | MERN stack Node.js Docker  Axios |
 |**[Webscraping](https://github.com/nes11/WebScraping)**: A Node app using Cheerio and HTML to fetch and format lists of job offers. CSS selectors, lodash, Nodemailer, TDD |  Axios Cheerio MongoDB Node.js |
 |**[Timesheets](https://github.com/nes11/Timesheets)**:Create, store and validate timesheets with a 3-part app: an Express API server, React frontend and Mongo ([CRUD ops](https://github.com/nes11/mongodbCRUD)). API tests, Async/await, lodash, moment, uuid, Material-UI, React set up. | MERNstack Chai/Axios Docker Node.js |
 |**[ToDo list](https://github.com/nes11/ToDoList)**: Add items to your list, mark them done and delete them. HTML file running JavaScript in a script tag. Browserify, HTML eventListeners, testing | Mocha/Axios HTML Node.js VSCode  |
