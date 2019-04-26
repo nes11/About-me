@@ -17,8 +17,8 @@ I use this repo to keep track of the skills I learn and the concepts I explore.
 [Variables](https://github.com/nes11/About-me/blob/master/variables.md)  
 [Functions](https://github.com/nes11/About-me/blob/master/functions.md)  
 [Rest/spread operators](https://github.com/nes11/About-me/blob/master/rest-spread-operators.md)  
-[Promises](https://github.com/nes11/About-me/blob/master/Promises.md)
-
+[Promises](https://github.com/nes11/About-me/blob/master/Promises.md)  
+[webpack-React set up](https://github.com/nes11/About-me/blob/master/webpack-React-setup.md)  
 uuid  
 Testing with Mocha, Chai, Axios, Postman  
 Express.js  
