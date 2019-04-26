@@ -160,5 +160,7 @@ app.listen(4000, () => {
 
 This is used to serve static files from the ```assets``` folder, where our bundled code now lives.
 
-That’s it! After bundling the code (```npm run build-assets```), we can start the server (```npm start```) and go to <http://localhost:4000/> to see our React component rendered in the browser! 
+That’s it! After bundling the code (```npm run build-assets```), we can start the server (```npm start```) and go to <http://localhost:4000/> to see our React component rendered in the browser!
+  
+![](./blog-image1.png)
 
